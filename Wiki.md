@@ -1,4 +1,7 @@
-# Download Progams/Templates
+# Praxis Sessions
+
+
+## Praxis Session 1 - Download Progams/Templates
 
 ## Entwicklungsumgebung
 
@@ -8,7 +11,7 @@ VSCode Erweiterungen
 - Pull Requests and Issues
 - Markdown All in One
 - Open in Browser
-- 
+  
 
 ## HTML Templates
 
@@ -21,3 +24,13 @@ VSCode Erweiterungen
 - git commit - m "your text" (Commits to repository)
 - git branch -m main (Creates a branch called name)
 - git push -u (Pushes changes to repository)
+
+## Praxis Session 2 
+
+Video - [User Story Mapping](https://www.youtube.com/watch?v=YfThdf6hDv8)
+
+Collaboration Tool - [Miro](https://miro.com/welcomeonboard/UVRiQXN2REgwSzNPeTlJaDg4ZUNlS2N4REtNc0dkTmN2ekxaQTFsbkZKaWV5N3RwQVhZQkVUZ0MzUWl0eVIyWXwzMDc0NDU3MzY3MDkwNTIxODI1?invite_link_id=192724873472)
+
+1. Form a Group
+2. Create a User Story
+3. Use Miro as a collaboration tool
