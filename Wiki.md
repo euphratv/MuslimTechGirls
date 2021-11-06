@@ -1,5 +1,6 @@
 # Praxis Sessions
 
+## [Präsentations-Slides](https://docs.google.com/presentation/d/1qa8_2SyiGF9DGiTN8UvM33KgWX2r10vZd1iDwfe-wpM/edit?usp=sharing)
 
 ## Praxis Session 1 - Download Progams/Templates
 
