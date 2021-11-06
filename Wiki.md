@@ -34,3 +34,13 @@ Collaboration Tool - [Miro](https://miro.com/welcomeonboard/UVRiQXN2REgwSzNPeTlJ
 1. Form a Group
 2. Create a User Story
 3. Use Miro as a collaboration tool
+   
+
+### [How to host a website](https://lerneprogrammieren.de/website-hosten/)
+
+Hosting Plattformen
+[Webhosting Vergleich](https://www.hosttest.de/vergleich/webhosting.html)
+
+- [Strato](https://www.strato.de/hosting/)
+- [IONOS](https://www.ionos.de/hosting/webhosting?ac=OM.PU.PUo42K356100T7073a&utm_source=google&utm_medium=cpc&utm_campaign=CLASSIC_HOSTING_DEU-GE-SEA&utm_term=webhost&utm_content=Web+Hosting&gclid=CjwKCAjwz5iMBhAEEiwAMEAwGJarSMft9yddnpqe2c1W_jrToQPbD7TkfVd0mjsNX7e0bVogTxCrwBoCzxYQAvD_BwE&gclsrc=aw.ds)
+  
